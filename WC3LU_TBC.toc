@@ -1,5 +1,5 @@
 ## Interface: 20504
-## Version: 1.0.6
+## Version: 1.0.7
 ## Title:|cfff4d038Warcraft 3|r Level Up!
 ## Author: DonnieDice
 ## Notes: Grats!
@@ -7,8 +7,7 @@
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/donniedice/WC3LU
 ## X-Curse-Project-ID: 594585
-## X-Tukui-ProjectID: 238
 ## X-Wago-ID: yQKyWnN7
 ## X-WoWI-ID: 26266
 
-main.lua
+Core.lua
